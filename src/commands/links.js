@@ -4,7 +4,7 @@ exports.run = (message, args) => {
         description: 'Visit the [Crusaders Quest Database (cqdb)](https://goo.gl/fdg6M8)!',
         fields: [{
             name: 'Tier Lists',
-            value: `[Accurina](https://goo.gl/bBgMTg)\n[IRC](https://goo.gl/oNQ2iF)\n[TISTORY](https://goo.gl/nOC3NK)\n[INVEN](https://goo.gl/k5PlhB)`,
+            value: `[kamakiller's SS2 Overview ](https://goo.gl/yPrKBR)\n[IRC](https://goo.gl/oNQ2iF)\n[TISTORY](https://goo.gl/nOC3NK)\n[INVEN](https://goo.gl/k5PlhB)`,
             inline: true,
         }, {
             name: 'Champions',
@@ -28,7 +28,7 @@ exports.run = (message, args) => {
             inline: true,
         }, {
             name: 'Hasla Guides',
-            value: `[Comics](https://goo.gl/HPsANc)\n[Season 2](https://goo.gl/UQdjhw)\n[Berry system](https://goo.gl/jbgmLa)`,
+            value: `[Comics](https://goo.gl/HPsANc)\n[Season 2](https://goo.gl/UQdjhw)\n[Berry system](https://goo.gl/jbgmLa)\n[Math in CQ](https://goo.gl/D5vtS2)`,
             inline: true,
         }, {
             name: 'Miscellaneous',
